@@ -1,0 +1,12 @@
+flask
+python-binance
+pybit
+python-okx
+requests
+urllib3
+python-dotenv
+six
+python-telegram-bot
+asyncio
+pytz 
+apscheduler
